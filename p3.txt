@@ -1,0 +1,3 @@
+Francisco|Magot|CS|4000
+Dario|Blanco|Industrial|10000
+Rodrigo|Salazar|CS|1000
